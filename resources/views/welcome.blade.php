@@ -8,7 +8,7 @@
     @vite('resources/js/app.js')
 </head>
 <body>
-    <h1 class="text-center mb-5">Laravel-Model-controller</h1>
+    <h1 class="text-center mb-5">Laravel-migration-seeder</h1>
 
     <div class="container d-flex flex-wrap">
         @foreach ($trains as $elem)
